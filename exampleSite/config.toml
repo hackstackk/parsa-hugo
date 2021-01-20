@@ -1,4 +1,4 @@
-baseurl = "https://hackstackk-test.netlify.com"
+baseurl = "https://hackstackk-test.netlify.app"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
