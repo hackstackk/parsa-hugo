@@ -1,7 +1,7 @@
 ---
-title: "Blog Post"
+title: "Some News Content"
 date: "2021-01-27"
-description: "Meta Descriptioin"
+description: "Description"
 type: "Featured"
 image: "images/featured-post/post-1.jpg"
 categories:
