@@ -2,8 +2,8 @@
 title: "Integrating Salesforce CMS With Netlify"
 date: 2019-05-14T14:46:10+06:00
 description: "How to integrate with salesforce CMS"
-type:"featured"
-image: "/images/featured-post/post-1.png"
+type: "featured"
+image: "images/featured-post/post-1.png"
 categories:
   - "Fashion"
 tags:
