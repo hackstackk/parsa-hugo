@@ -5,10 +5,12 @@ description: Some Text
 type: Featured
 image: "/images/b23676c01j_sequoia_rgb_smp-1.png"
 categories:
-- Computers
+- Salesforce
 tags:
 - Learning
 - CMS
 
 ---
 Main Content
+
+This is the main body of text
