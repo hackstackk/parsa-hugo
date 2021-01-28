@@ -3,12 +3,14 @@ title: "Integrating Salesforce CMS With Netlify"
 date: 2019-05-14T14:46:10+06:00
 description: "How to integrate with salesforce CMS"
 type: "featured"
-image: "images/featured-post/post-1.png"
+image: "images/featured-post/salesforce.jpg"
 categories:
-  - "Fashion"
+  - "CMS"
 tags:
-  - "Fashion"
----
+  - "Salesforce"
+  - "Git"
+  - "Netlify"
+--
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Nulla aliquet enim tortor at. Id aliquet risus feugiat in ante metus dictum at tempor. Lectus quam id leo in vitae. Purus semper eget duis at tellus at urna condimentum mattis. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla. Platea dictumst quisque sagittis purus sit. Eget sit amet tellus cras adipiscing enim eu. Mattis enim ut tellus elementum sagittis vitae et. Odio tempor orci dapibus ultrices. Pulvinar proin gravida hendrerit lectus. Convallis posuere morbi leo urna. Sed id semper risus in hendrerit. Tincidunt eget nullam non nisi est sit. Dictum fusce ut placerat orci. Adipiscing tristique risus nec feugiat in fermentum. Et malesuada fames ac turpis egestas maecenas pharetra. Ornare quam viverra orci sagittis eu volutpat odio facilisis mauris.
